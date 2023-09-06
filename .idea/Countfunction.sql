@@ -1,0 +1,1 @@
+select count(OrderID) from orderdetails

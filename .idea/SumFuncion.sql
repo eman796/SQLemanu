@@ -1,0 +1,1 @@
+select sum(Price) as "Suma de productos" from products

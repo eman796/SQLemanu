@@ -1,0 +1,1 @@
+select  max(ProductID) from orderdetails
